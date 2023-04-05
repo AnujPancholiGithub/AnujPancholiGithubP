@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/AnujPancholiGithub.io/static/css/main.dfa64a60.css",
+    "main.js": "/AnujPancholiGithub.io/static/js/main.a120776b.js",
+    "static/js/787.28cb0dcd.chunk.js": "/AnujPancholiGithub.io/static/js/787.28cb0dcd.chunk.js",
+    "static/media/slick.svg": "/AnujPancholiGithub.io/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/AnujPancholiGithub.io/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/AnujPancholiGithub.io/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/AnujPancholiGithub.io/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/AnujPancholiGithub.io/index.html",
+    "main.dfa64a60.css.map": "/AnujPancholiGithub.io/static/css/main.dfa64a60.css.map",
+    "main.a120776b.js.map": "/AnujPancholiGithub.io/static/js/main.a120776b.js.map",
+    "787.28cb0dcd.chunk.js.map": "/AnujPancholiGithub.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfa64a60.css",
+    "static/js/main.a120776b.js"
+  ]
+}
